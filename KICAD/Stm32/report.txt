@@ -1,0 +1,6 @@
+Front (top side) placement file: 'C:\Users\ekung\Desktop\KU Lueven\Circuitdesign\Stm32\Stm32-top.pos'.
+Info: Component count: 43.
+Back (bottom side) placement file: 'C:\Users\ekung\Desktop\KU Lueven\Circuitdesign\Stm32\Stm32-bottom.pos'.
+Info: Component count: 0.
+Info: Full component count: 43.
+Info: Done.
