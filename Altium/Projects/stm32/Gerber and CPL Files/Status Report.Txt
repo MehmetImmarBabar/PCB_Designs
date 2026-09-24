@@ -1,0 +1,11 @@
+Output: Generates pick and place files
+Type  : Pick Place
+From  : Variant [[No Variations]] of Project [STM32F411.PrjPcb]
+   Generated File[Pick Place for stm32PCB1.txt]
+   Generated File[Pick Place for stm32PCB1.csv]
+
+
+Files Generated   : 2
+Documents Printed : 0
+
+Finished Output Generation At 03:10:05 On 24/09/2026
